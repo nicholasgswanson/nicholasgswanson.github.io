@@ -85,8 +85,8 @@ author:
   bio              : "Economics PhD Student at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nicholasgswanson"
+  github           : #"nicholasgswanson"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -222,6 +222,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
