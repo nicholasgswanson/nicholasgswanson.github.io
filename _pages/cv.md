@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please click [here](http://academicpages.github.io/files/Swanson_CV.pdf) for CV
+Please click [here](http://nicholasgswanson.github.io/files/1_swanson_cv.pdf) for CV
 
 <!--
 {% include base_path %}
