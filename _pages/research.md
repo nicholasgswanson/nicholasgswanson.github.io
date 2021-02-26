@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-##Works in Progress
+## Works in Progress
 
 _Budget Neglect in Consumption Smoothing: A Field Experiment on Seasonal Hunger_ with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye
 
-##Publications
+## Publications
 
 _Research Transparency is on the Rise in Economics_ with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang
 
