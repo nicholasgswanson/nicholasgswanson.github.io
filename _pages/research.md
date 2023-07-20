@@ -9,9 +9,11 @@ author_profile: true
 
 _Retrieval Failures and Consumption Smoothing:
 A Field Experiment on Seasonal Poverty_ with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye
+
 _Email for Draft_
 
 _Survey of Open Science Practices and Attitudes in the Social Sciences_ with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto
+
 _Revise and Resubmit - Nature Communications_
 
 ## Publications
