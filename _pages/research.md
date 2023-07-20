@@ -24,7 +24,7 @@ _AEA Papers and Proceedings_ , 110: 61-65, doi: 10.1257/pandp.20201077
 
 ## Works in Progress
 
-_General Skills and Underinvestment in New Technologies: Evidence from Burundi_ with Luisa Cefala, Pedro Nano, Michel Ndayikeza 
+_General Skills and Underinvestment in New Technologies: Evidence from Burundi_ with Luisa Cefala, Pedro Naso, Michel Ndayikeza 
 
 _Kinship Pressure and Firm-Worker Matching Distortions_ 
 
