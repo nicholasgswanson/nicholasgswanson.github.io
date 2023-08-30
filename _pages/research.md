@@ -15,9 +15,9 @@ A Field Experiment on Seasonal Poverty_ with Ned Augenblick, Kelsey Jack, Supree
 
 ## Publications
 
-_Research Transparency is on the Rise in Economics_ with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang AEA Papers and Proceedings_ , 110: 61-65, doi: 10.1257/pandp.20201077
+_Research Transparency is on the Rise in Economics_ with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
 
-_Survey of Open Science Practices and Attitudes in the Social Sciences_ with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto, Nature Communications_ Forthcoming
+_Survey of Open Science Practices and Attitudes in the Social Sciences_ with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
 
 
 ## Works in Progress
