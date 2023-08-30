@@ -7,24 +7,24 @@ author_profile: true
 
 ## Working Papers
 
-_[JMP] General Skills and Underinvestment in New Technologies: Evidence from Burundi_ with Luisa Cefala, Pedro Naso, Michel Ndayikeza 
+__[JMP] General Skills and Underinvestment in New Technologies: Evidence from Burundi__ with Luisa Cefala, Pedro Naso, Michel Ndayikeza _(Email for draft)_
 
-_Retrieval Failures and Consumption Smoothing:
-A Field Experiment on Seasonal Poverty_ with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye
+__Retrieval Failures and Consumption Smoothing:
+A Field Experiment on Seasonal Poverty__ with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye _(Email for draft)_
 
 
 ## Publications
 
-_Research Transparency is on the Rise in Economics_ with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
+__Research Transparency is on the Rise in Economics__ with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
 
-_Survey of Open Science Practices and Attitudes in the Social Sciences_ with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
+__Survey of Open Science Practices and Attitudes in the Social Sciences__ with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
 
 
 ## Works in Progress
 
-_Kinship Pressure and Firm-Worker Matching Distortions_ 
+__Kinship Pressure and Firm-Worker Matching Distortions__ 
 
-_The Impacts of liquidity on low-income workers: Evidence from EWA_ with Luisa Cefala, Eric Koepcke
+__The Impacts of liquidity on low-income workers: Evidence from EWA__ with Luisa Cefala, Eric Koepcke
 
 
 
