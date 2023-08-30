@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at UC Berkeley, focusing on Development Economics.
+I am a PhD student in Economics at UC Berkeley, focusing on Development Economics. I will be on the job market in 2023/24.
 
 If you’d like to contact me, you can email nicholas dot swanson at berkeley.edu.
 
