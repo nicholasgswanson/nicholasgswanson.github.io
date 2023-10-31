@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at UC Berkeley, focusing on Development Economics.
+I am a PhD candidate in Economics at UC Berkeley, focusing on Development, Behavioral and Labor Economics.
 
 I will be on the job market in 2023/24.
 
