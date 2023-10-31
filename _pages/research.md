@@ -12,7 +12,7 @@ __[JMP] Under-training by Employers in Spot Labor Markets: Evidence from Burundi
 __Retrieval Failures and Consumption Smoothing:
 A Field Experiment on Seasonal Poverty__ with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye _(Email for draft)_
 
-__Kinship Pressure and Firm-Worker Matching Distortions_(Draft in November)__ 
+__Kinship Pressure and Firm-Worker Matching Distortions _(Draft in November)_ 
 
 
 ## Publications
