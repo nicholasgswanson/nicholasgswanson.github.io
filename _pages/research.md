@@ -12,6 +12,8 @@ __[JMP] Under-training by Employers in Spot Labor Markets: Evidence from Burundi
 __Retrieval Failures and Consumption Smoothing:
 A Field Experiment on Seasonal Poverty__ with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye _(Email for draft)_
 
+__Kinship Pressure and Firm-Worker Matching Distortions_(Draft in November)__ 
+
 
 ## Publications
 
@@ -22,7 +24,7 @@ __Survey of Open Science Practices and Attitudes in the Social Sciences__ with J
 
 ## Works in Progress
 
-__Kinship Pressure and Firm-Worker Matching Distortions__ 
+
 
 __The Impacts of liquidity on low-income workers: Evidence from EWA__ with Luisa Cefala, Eric Koepcke
 
