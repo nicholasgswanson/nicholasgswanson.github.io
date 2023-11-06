@@ -9,8 +9,8 @@ author_profile: true
 
 __[JMP] Under-training by Employers in Spot Labor Markets: Evidence from Burundi__ with Luisa Cefala, Pedro Naso, Michel Ndayikeza _(Email for draft)_
 
-__Retrieval Failures and Consumption Smoothing:
-A Field Experiment on Seasonal Poverty__ with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye _(Email for draft)_
+[__Retrieval Failures and Consumption Smoothing:
+A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye 
 
 __Kinship Pressure and Firm-Worker Matching Distortions__ _(Draft in November)_ 
 
