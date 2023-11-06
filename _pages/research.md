@@ -17,9 +17,9 @@ __Kinship Pressure and Firm-Worker Matching Distortions__ _(Draft in November)_
 
 ## Publications
 
-__Research Transparency is on the Rise in Economics__ with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
+[__Research Transparency is on the Rise in Economics__](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077) with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
 
-__Survey of Open Science Practices and Attitudes in the Social Sciences__ with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
+[__Survey of Open Science Practices and Attitudes in the Social Sciences__] (https://www.nature.com/articles/s41467-023-41111-1) with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
 
 
 ## Works in Progress
