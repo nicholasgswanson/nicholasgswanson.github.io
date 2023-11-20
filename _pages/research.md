@@ -32,9 +32,9 @@ in jobs where it is easier for workers to make excuses about poor performance, a
 
 ## Publications
 
-[__Research Transparency is on the Rise in Economics__](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077) with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Rebecca Littman](http://thelittmanlab.com/), David Birke, [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
+[__Research Transparency is on the Rise in Economics__](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077) with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Rebecca Littman](http://thelittmanlab.com/), [David Birke](https://djbirke.net/), [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), [Zenan Wang](https://www.zenan-wang.com/) _AEA Papers and Proceedings_ 2020, 110: 61-65
 
-[__Survey of Open Science Practices and Attitudes in the Social Sciences__](https://www.nature.com/articles/s41467-023-41111-1) with [Joel Ferguson](https://joelferg.github.io/), [Rebecca Littman](http://thelittmanlab.com/), [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), Zenan Wang, [Edward Miguel](http://emiguel.econ.berkeley.edu/), David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
+[__Survey of Open Science Practices and Attitudes in the Social Sciences__](https://www.nature.com/articles/s41467-023-41111-1) with [Joel Ferguson](https://joelferg.github.io/), [Rebecca Littman](http://thelittmanlab.com/), [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), [Zenan Wang](https://www.zenan-wang.com/), [Edward Miguel](http://emiguel.econ.berkeley.edu/), [David Birke](https://djbirke.net/), John-Henry Pezzuto, _Nature Communications_ Forthcoming
 
 
 ## Works in Progress
