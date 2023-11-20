@@ -7,14 +7,14 @@ author_profile: true
 
 ## Working Papers
 
-__[JMP] [Under-training by Employers in Spot Labor Markets: Evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view?usp=drive_link)__ with Luisa Cefala, Pedro Naso, Michel Ndayikeza 
+__[JMP] [Under-training by Employers in Spot Labor Markets: Evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view?usp=drive_link)__ with [Luisa Cefala](https://luisacef.github.io/), [Pedro Naso](https://pedronaso.com/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza) 
 
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
 <span style="text-decoration: underline;">Abstract:</span> Labor markets in low- and middle-income countries are often organized via short-term informal spot contracts. This market structure may lead employers to underinvest in training workers in general human capital. We explore this phenomenon among agricultural employers in Burundi. We investigate whether employers do not train casual laborers in improved, labor-intensive, agricultural techniques because they do not ``appropriate'' the returns. First, to test for the presence of appropriability failures, we induce a subset of employers to train workers in some local labor markets (villages) and not others. We document that many of the trained workers subsequently work for other employers in the local labor market, so that the training employer captures only a portion of the returns from training. The spillovers onto the other employers (who did not train) are large, leading to increases in use of the new technology and increased profits. Second, we randomize employers into a contract condition that increases the likelihood that the trained worker will work for the training employer in the future, shifting more of the training surplus to the training employer. This contract increases employers' willingness to train by 50 percentage points. Our findings suggest that a sizable wedge between private and social returns to training may impede on-the-job training in spot labor markets, with meaningful consequences for worker productivity and output.
 </div>
 
 [__Retrieval Failures and Consumption Smoothing:
-A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye  
+A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with Ned Augenblick, [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)  
 Revise and Resubmit, _Quarterly Journal of Economics_
 
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
@@ -32,16 +32,16 @@ in jobs where it is easier for workers to make excuses about poor performance, a
 
 ## Publications
 
-[__Research Transparency is on the Rise in Economics__](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077) with Garret Christensen, Rebecca Littman, David Birke, Edward Miguel, Elizabeth Levy Paluck, Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
+[__Research Transparency is on the Rise in Economics__](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077) with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Rebecca Littman](http://thelittmanlab.com/), David Birke, [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), Zenan Wang _AEA Papers and Proceedings_ 2020, 110: 61-65
 
-[__Survey of Open Science Practices and Attitudes in the Social Sciences__](https://www.nature.com/articles/s41467-023-41111-1) with Joel Ferguson, Rebecca Pittman, Garret Christensen, Elizabeth Levy Paluck, Zenan Wang, Edward Miguel, David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
+[__Survey of Open Science Practices and Attitudes in the Social Sciences__](https://www.nature.com/articles/s41467-023-41111-1) with [Joel Ferguson](https://joelferg.github.io/), [Rebecca Littman](http://thelittmanlab.com/), [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), Zenan Wang, [Edward Miguel](http://emiguel.econ.berkeley.edu/), David Birke, John-Henry Pezzuto, _Nature Communications_ Forthcoming
 
 
 ## Works in Progress
 
 
 
-__The Impacts of liquidity on low-income workers: Evidence from EWA__ with Luisa Cefala, Eric Koepcke
+__The Impacts of liquidity on low-income workers: Evidence from EWA__ with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
 
 
 
