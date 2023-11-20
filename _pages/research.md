@@ -14,7 +14,7 @@ __[JMP] [Under-training by Employers in Spot Labor Markets: Evidence from Burund
 </div>
 
 [__Retrieval Failures and Consumption Smoothing:
-A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with Ned Augenblick, [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)  
+A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with [Ned Augenblick](http://faculty.haas.berkeley.edu/ned/?_gl=1*uuzusw*_ga*MTgxNDQ0OTQ2NS4xNTg0NzIzOTM1*_ga_EW2RSBHHX6*MTcwMDUxNjE1OC4xNy4xLjE3MDA1MTc0NDMuNjAuMC4w), [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)  
 Revise and Resubmit, _Quarterly Journal of Economics_
 
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
