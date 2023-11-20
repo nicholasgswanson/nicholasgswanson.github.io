@@ -15,7 +15,6 @@ __[JMP] [Under-training by Employers in Spot Labor Markets: Evidence from Burund
 
 [__Retrieval Failures and Consumption Smoothing:
 A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with Ned Augenblick, Kelsey Jack, Supreet Kaur, Felix Masiye  
- 
 Revise and Resubmit, _Quaterly Journal of Economics_
 
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
