@@ -38,6 +38,7 @@ Revise and Resubmit, _Quarterly Journal of Economics_
 ## Works in Progress
 
 
+__Knowledge Hoarding in the Transfer of Worker Skills: Evidence from Burundi__ with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)
 
 __The Impacts of liquidity on low-income workers: Evidence from EWA__ with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
 
