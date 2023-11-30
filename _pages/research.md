@@ -40,8 +40,13 @@ Revise and resubmit, _Quarterly Journal of Economics_
 
 
 __Knowledge Hoarding in the Transfer of Worker Skills: Evidence from Burundi__ with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)
+<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
+Do workers not train co-workers to limit competition for their job? We conduct multiple field experiments to show the existence of knowledge hoarding behavior and document the aggregate and distributional consequences of hoarding knowledge on workers' earnings, and employers' output.
+</div>
 
 __The Impacts of liquidity on low-income workers: Evidence from EWA__ with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
-
+<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
+Earned wage access offers low-income workers earlier access to their earnings. Is access to earnings on demand beneficial or harmful to workers? We partner with the largest provider of earned wage access in Europe, and investigate this question using administrative data and survey experiments.
+</div>
 
 
