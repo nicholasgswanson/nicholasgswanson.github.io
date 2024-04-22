@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at UC Berkeley, focusing on Development, Behavioral and Labor Economics.
-
-I will be on the job market in 2023/24.
+I am currently a PhD candidate in Economics at UC Berkeley, focusing on Development, Behavioral and Labor Economics. In July 2024 I will join the King Center on Global Development at Stanford University as a Postdoctoral Fellow. In 2025 I will join the World Bank as an Economist in the Development Impact Evaluation Department.
 
 If you’d like to contact me, you can email nicholas dot swanson at berkeley.edu.
 
