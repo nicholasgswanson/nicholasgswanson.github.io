@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in Economics at UC Berkeley, focusing on Development, Behavioral and Labor Economics. In July 2024 I will join the King Center on Global Development at Stanford University as a Postdoctoral Fellow. In 2025 I will join the World Bank as an Economist in the Development Impact Evaluation Department.
+I am a Postdoctoral Fellow at the King Center on Global Development at Stanford University. In 2025 I will join the World Bank as an Economist in the Development Impact Evaluation Department.
 
-If you’d like to contact me, you can email nicholas dot swanson at berkeley.edu.
+My research focuses on Development, Behavioral and Labor Economics.  
+
+If you’d like to contact me, you can email ngswan at stanford dot edu.
 
 You can find my CV [here](http://nicholasgswanson.github.io/files/Swanson_cv_v13.pdf)
 
