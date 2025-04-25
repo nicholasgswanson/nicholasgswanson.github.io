@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the King Center on Global Development at Stanford University. In 2025 I will join the World Bank as an Economist in the Development Impact Evaluation Department.
+I am a Postdoctoral Fellow at the King Center on Global Development at Stanford University. In 2025 I will join Cornell as an Assistant Professor in the Department of Economics.
 
 My research focuses on Development, Behavioral and Labor Economics.  
 
