@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the King Center on Global Development at Stanford University. In 2025 I will join Cornell as an Assistant Professor in the Department of Economics.
+I am an Assistant Professor of Economics at Cornell University. I received my PhD in Economics at UC Berkeley in 2024.
 
 My research focuses on Development, Behavioral and Labor Economics.  
 
