@@ -12,7 +12,7 @@ I am an Assistant Professor of Economics at Cornell University. I received my Ph
 
 My research focuses on Development, Behavioral and Labor Economics.  
 
-If you’d like to contact me, you can email ngswan at stanford dot edu.
+If you’d like to contact me, you can email ngs53 at cornell dot edu.
 
 You can find my CV [here](http://nicholasgswanson.github.io/files/Swanson_cv_v13.pdf)
 
