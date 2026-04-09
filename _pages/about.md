@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at Cornell University. I received my PhD in Economics at UC Berkeley in 2024.
+I am an Assistant Professor of Economics at Cornell University. I received my PhD in Economics at UC Berkeley in 2024. During 2025, I was a postdoctoral fellow at the King Center at Stanford University. 
 
 My research focuses on Development, Behavioral and Labor Economics.  
 
