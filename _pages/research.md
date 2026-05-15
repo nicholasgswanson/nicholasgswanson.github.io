@@ -36,8 +36,7 @@ Conditionally Accepted, _Quarterly Journal of Economics_
 
 ## Publications
 
-[__When Outsiders Become Insiders: Beliefs and the Persistence of Exclusionary Norms__](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20261047) with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> _AEA Papers and Proceedings_ 2026, 116: 162-166
+[__When Outsiders Become Insiders: Beliefs and the Persistence of Exclusionary Norms__](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20261047) with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)  _AEA Papers and Proceedings_ 2026, 116: 162-166
 
 [__Research Transparency is on the Rise in Economics__](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077) with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Rebecca Littman](http://thelittmanlab.com/), [David Birke](https://djbirke.net/), [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), [Zenan Wang](https://www.zenan-wang.com/) _AEA Papers and Proceedings_ 2020, 110: 61-65
 
