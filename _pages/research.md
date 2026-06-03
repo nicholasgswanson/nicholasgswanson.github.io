@@ -46,7 +46,7 @@ Conditionally Accepted, _Quarterly Journal of Economics_
 ## Works in Progress
 
 __Slum Measurement using Manual and AI Methods__ with Michael Gechter, Yuting Li, Nancy Lozano Gracia, Minas Sifakis and Nick Tsivanidis
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
+<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> 
 Slums represent a large and growing part of the global urban landscape, yet fine geographic
 data on their location and populations remain scarce. This scarcity constrains both urban
 policymakers, who need maps to target investments, and researchers, who need location
