@@ -45,13 +45,14 @@ Conditionally Accepted, _Quarterly Journal of Economics_
 
 ## Works in Progress
 
-__Slum Measurement using Manual and AI Methods__ with Michael Gechter, Yuting Li, Nancy Lozano Gracia, Minas Sifakis and Nick Tsivanidis
+__Slum Measurement using Manual and AI Methods__ with [Michael Gechter](https://michaelgechter.com/), Yuting Li, Nancy Lozano Gracia, Minas Sifakis and [Nick Tsivanidis](https://www.nicktsivanidis.com/)
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> 
 Slums represent a large and growing part of the global urban landscape, yet fine geographic
 data on their location and populations remain scarce. This scarcity constrains both urban
 policymakers, who need maps to target investments, and researchers, who need location
 data for causal inference on the effects of policies involving slums. This article reviews methods for measuring slums at two levels: counting slum populations
 and producing high-resolution maps of slum locations.
+</div>
 
 __The Impacts of Liquidity on Low-income Workers: Evidence from EWA__ with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
