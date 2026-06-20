@@ -33,6 +33,17 @@ Conditionally Accepted, _Quarterly Journal of Economics_
 <span style="text-decoration: underline;">Abstract:</span> Individuals may fail to recall and use information they already know when making decisions. We empirically investigate whether such ``retrieval failures'' distort consumption smoothing behavior among Zambian farmers, who derive their income from one annual harvest and then spend it down over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for under-saving. In order to improve recall, we randomize an intervention that prompts individuals to think through their future expenses associatively in categories-without providing any external information or guidance.  Treated individuals increase ``remembered'' expenses by 42%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, two months after the intervention, treated households hold 15% higher savings. They subsequently enter the ``hungry season''-the final months of the year when consumption typically declines sharply-with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year's crop revenue. We replicate the intervention's impact on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations. 
 </div>
 
+[__Slum Measurement using Manual and AI Methods__](https://www.dropbox.com/scl/fi/xdoxzuhsmscs5evrusyr1/Slum-Measurement-using-Manual-and-AI-Methods.pdf?rlkey=c3ag4p4a0zvf3ty48zwd7a2ni&dl=0) with [Michael Gechter](https://michaelgechter.com/), Yuting Li, Nancy Lozano Gracia, Minas Sifakis and [Nick Tsivanidis](https://www.nicktsivanidis.com/)  
+In preparation for the _Journal of Economic Perspectives_
+
+<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> 
+Slums represent a large and growing part of the global urban landscape, yet fine geographic
+data on their location and populations remain scarce. This scarcity constrains both urban
+policymakers, who need maps to target investments, and researchers, who need location
+data for causal inference on the effects of policies involving slums. This article reviews methods for measuring slums at two levels: counting slum populations
+and producing high-resolution maps of slum locations.
+</div>
+
 
 ## Publications
 
@@ -45,18 +56,7 @@ Conditionally Accepted, _Quarterly Journal of Economics_
 
 ## Works in Progress
 
-__Slum Measurement using Manual and AI Methods__ with [Michael Gechter](https://michaelgechter.com/), Yuting Li, Nancy Lozano Gracia, Minas Sifakis and [Nick Tsivanidis](https://www.nicktsivanidis.com/)
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> 
-Slums represent a large and growing part of the global urban landscape, yet fine geographic
-data on their location and populations remain scarce. This scarcity constrains both urban
-policymakers, who need maps to target investments, and researchers, who need location
-data for causal inference on the effects of policies involving slums. This article reviews methods for measuring slums at two levels: counting slum populations
-and producing high-resolution maps of slum locations.
-</div>
-
 __The Impacts of Liquidity on Low-income Workers: Evidence from EWA__ with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
 Earned Wage Access (EWA)--a financial technology that gives workers access to their wages as they are earned, rather than having to wait until payday--can benefit workers by providing cheap, short-term liquidity. However, when workers have self-control problems or biased beliefs, particularly about their future earnings and liquidity shocks, they may use this technology suboptimally, resulting in overconsumption. We partner with an EWA fintech firm to quantify these trade-offs using administrative data on earnings and EWA usage, in conjunction with a survey experiment. We find that workers systematically over-predict their future earnings, under-predict their future EWA usage, demand incentives to reduce their EWA usage, and are unable to predict future wage shocks. Using quasi-experimental variation in these wage shocks, we document that workers significantly increase their EWA usage in response to positive wage shocks in both their most recent paycheck and their next paycheck, which determines the amount they can withdraw. Using changes in withdrawal fees, we find patterns consistent with partial sophistication about self-control problems. We organize these facts in a consumption-savings model at the daily level, with workers with biased beliefs and partial awareness of their self-control problems. The estimates from our model imply that EWA increases worker’s welfare on net, but that regulations such as fees and withdrawal limits can further enhance welfare. 
 </div>
-
-
