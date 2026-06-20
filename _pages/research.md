@@ -25,6 +25,17 @@ author_profile: true
 Social learning is an important source of knowledge diffusion in low-income countries. However, because developing country markets are often highly localized, individuals with social ties may compete more directly for the same economic rents, creating incentives for individuals to “hoard” their knowledge. This paper studies the impact of knowledge hoarding on the diffusion of profitable skills and technologies in rural Burundi, and measures its aggregate and distributional consequences for the village economy. In a field experiment covering 223 villages (labor markets), workers skilled in high-return agricultural technologies are encouraged to share their knowledge with unskilled individuals. We randomize at the local labor market level whether the unskilled worker is a competitor (i.e., someone from the same labor market) and whether the training is about a technology with rivalrous rents (row planting, which commands a wage premium in the labor market). We first establish that knowledge hoarding indeed reduces social learning. When incumbents are matched with an individual from the same labor market, knowledge transmission occurs only 3% of the time but reaches 43% if the unskilled worker is not a competitor. In contrast, transmission of technologies with nonrivalrous rents (e.g., composting) is high regardless of the unskilled worker’s identity. Next, we show that knowledge hoarding creates winners and losers: by hoarding knowledge, incumbents earn 6% more, and the skilled equilibrium wage is 3% higher. Instead, unskilled workers’ earnings and farm output are 7% and 20% lower, respectively. Altogether, knowledge hoarding reduces technology adoption by over 20%, suggesting substantial yield losses. Finally, our results suggest that fear of social sanction is a mechanism that sustains knowledge hoarding among the incumbents, highlighting how social ties can foster social learning but also inhibit it when knowledge diffusion threatens incumbents’ rents.
 </div>
 
+
+[__Slum Measurement using Manual and AI Methods__](https://www.dropbox.com/scl/fi/xdoxzuhsmscs5evrusyr1/Slum-Measurement-using-Manual-and-AI-Methods.pdf?rlkey=c3ag4p4a0zvf3ty48zwd7a2ni&e=2&dl=0) with [Michael Gechter](https://michaelgechter.com/), Yuting Li, Nancy Lozano Gracia, Minas Sifakis and [Nick Tsivanidis](https://www.nicktsivanidis.com/)  
+_In preparation for the Journal of Economic Perspectives_
+<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> 
+Slums represent a large and growing part of the global urban landscape, yet fine geographic
+data on their location and populations remain scarce. This scarcity constrains both urban
+policymakers, who need maps to target investments, and researchers, who need location
+data for causal inference on the effects of policies involving slums. This article reviews methods for measuring slums at two levels: counting slum populations
+and producing high-resolution maps of slum locations.
+</div>
+
 [__Retrieval Failures and Consumption Smoothing:
 A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with [Ned Augenblick](http://faculty.haas.berkeley.edu/ned/?_gl=1*uuzusw*_ga*MTgxNDQ0OTQ2NS4xNTg0NzIzOTM1*_ga_EW2RSBHHX6*MTcwMDUxNjE1OC4xNy4xLjE3MDA1MTc0NDMuNjAuMC4w), [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)  
 Conditionally Accepted, _Quarterly Journal of Economics_
@@ -45,14 +56,6 @@ Conditionally Accepted, _Quarterly Journal of Economics_
 
 ## Works in Progress
 
-__Slum Measurement using Manual and AI Methods__ with [Michael Gechter](https://michaelgechter.com/), Yuting Li, Nancy Lozano Gracia, Minas Sifakis and [Nick Tsivanidis](https://www.nicktsivanidis.com/)
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> 
-Slums represent a large and growing part of the global urban landscape, yet fine geographic
-data on their location and populations remain scarce. This scarcity constrains both urban
-policymakers, who need maps to target investments, and researchers, who need location
-data for causal inference on the effects of policies involving slums. This article reviews methods for measuring slums at two levels: counting slum populations
-and producing high-resolution maps of slum locations.
-</div>
 
 __The Impacts of Liquidity on Low-income Workers: Evidence from EWA__ with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
 <div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
