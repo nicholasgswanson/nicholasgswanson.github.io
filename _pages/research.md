@@ -2,61 +2,155 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 ## Working Papers
 
-[__Under-training by Employers in Informal Labor Markets: Evidence from Burundi__](https://drive.google.com/file/d/1l00NDXxf-q3GSKU3g8Yo9ivM1cu6M51D/view?usp=drive_link) with [Luisa Cefala](https://luisacef.github.io/), [Pedro Naso](https://pedronaso.com/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza) 
+<ol class="pub-list" markdown="1">
 
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
-<span style="text-decoration: underline;">Abstract:</span> Most labor in low- and middle-income countries is traded through short-term, informal contracts. We explore whether this feature of the labor market leads employers to under-train workers in general human capital, because most of the returns from training are not captured by the training employer. We conduct two field experiments with agricultural employers in Burundi who can train casual laborers in improved, labor-intensive,  agricultural techniques. In the first experiment, we offer employers in some local labor markets (villages) incentives to train workers. After training, employers who trained workers find it harder to retain them, with many of the trained workers subsequently working for other employers in the local labor market. The spillovers onto the other employers (who did not train) are large, leading to improved farm outcomes and higher profits. In the second experiment, we randomize employers into a condition that increases the likelihood that the worker will  return to work for the employer in the future. Employers receiving this guarantee are 50 percentage points more likely to train the worker. These findings suggest that the wedge between private and social returns to training meaningfully impedes on-the-job-learning, diminishing worker productivity and output.
+<li markdown="1">
+
+**[Under-training by Employers in Informal Labor Markets: Evidence from Burundi](https://drive.google.com/file/d/1l00NDXxf-q3GSKU3g8Yo9ivM1cu6M51D/view?usp=drive_link)**
+{: .pub-title}
+
+with [Luisa Cefala](https://luisacef.github.io/), [Pedro Naso](https://pedronaso.com/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza)
+{: .pub-authors}
+
+<button class="pub-abstract-toggle" type="button">Abstract</button>
+<div class="pub-abstract">
+Most labor in low- and middle-income countries is traded through short-term, informal contracts. We explore whether this feature of the labor market leads employers to under-train workers in general human capital, because most of the returns from training are not captured by the training employer. We conduct two field experiments with agricultural employers in Burundi who can train casual laborers in improved, labor-intensive, agricultural techniques. In the first experiment, we offer employers in some local labor markets (villages) incentives to train workers. After training, employers who trained workers find it harder to retain them, with many of the trained workers subsequently working for other employers in the local labor market. The spillovers onto the other employers (who did not train) are large, leading to improved farm outcomes and higher profits. In the second experiment, we randomize employers into a condition that increases the likelihood that the worker will return to work for the employer in the future. Employers receiving this guarantee are 50 percentage points more likely to train the worker. These findings suggest that the wedge between private and social returns to training meaningfully impedes on-the-job-learning, diminishing worker productivity and output.
 </div>
 
-[__All in the Family: Kinship Pressure and Firm-Worker Matching__](https://drive.google.com/file/d/1i-tn-6AilyYSaPChi5zRc0mJzb4-FtMZ/view?usp=drive_link)
+</li>
 
+<li markdown="1">
 
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
-<span style="text-decoration: underline;">Abstract:</span> The modal firm in low- and middle-income countries has no employees that are not family members. While this is often attributed to informational or contractual frictions, an alternate view is that pressure to offer financial assistance to extended family in the form of employment may distort employers' hiring decisions. I design three field experiments - conducted with both urban firms and agricultural employers in Zambia - to test whether pressure impacts firm hiring, and examine its productivity implications. In the first experiment, urban firms are offered the chance to receive a 3-month subsidy for hiring a full-time permanent employee. A subset of firms is then randomized to receive plausible deniability in their hiring decision: receiving a poster that suggests the firm may not have been eligible for the subsidy if it hired a relative. This increases the probability of choosing to hire a non-related employee, rather than a related one, by 11 percentage points (20 percent). In the second experiment I show it is socially very costly for employers to hire a non-relative: when they have plausible deniability, the subsidy required to get a firm to choose a non-relative rather than a relative falls substantially - equivalent to 4 percent of total monthly profits. This effect is concentrated among firm owners that report higher redistributive pressure at baseline. In the third experiment I show that in a common agricultural job where productivity is measurable - maize shelling - the same worker is more likely to shirk when working for a related employer, leading relatives to be 7 percent less productive than non-relatives. Consistent with higher moral hazard problems with relatives, employers across samples report that firing a relative would lead to social penalties. Similarly, in the urban sample, treatment effects are higher among firms that report more difficulty verifying worker effort at baseline. These findings suggest that social pressure to hire relatives may distort the composition of employment as well as productivity in developing countries. 
+**[All in the Family: Kinship Pressure and Firm-Worker Matching](https://drive.google.com/file/d/1i-tn-6AilyYSaPChi5zRc0mJzb4-FtMZ/view?usp=drive_link)**
+{: .pub-title}
+
+<button class="pub-abstract-toggle" type="button">Abstract</button>
+<div class="pub-abstract">
+The modal firm in low- and middle-income countries has no employees that are not family members. While this is often attributed to informational or contractual frictions, an alternate view is that pressure to offer financial assistance to extended family in the form of employment may distort employers' hiring decisions. I design three field experiments - conducted with both urban firms and agricultural employers in Zambia - to test whether pressure impacts firm hiring, and examine its productivity implications. In the first experiment, urban firms are offered the chance to receive a 3-month subsidy for hiring a full-time permanent employee. A subset of firms is then randomized to receive plausible deniability in their hiring decision: receiving a poster that suggests the firm may not have been eligible for the subsidy if it hired a relative. This increases the probability of choosing to hire a non-related employee, rather than a related one, by 11 percentage points (20 percent). In the second experiment I show it is socially very costly for employers to hire a non-relative: when they have plausible deniability, the subsidy required to get a firm to choose a non-relative rather than a relative falls substantially - equivalent to 4 percent of total monthly profits. This effect is concentrated among firm owners that report higher redistributive pressure at baseline. In the third experiment I show that in a common agricultural job where productivity is measurable - maize shelling - the same worker is more likely to shirk when working for a related employer, leading relatives to be 7 percent less productive than non-relatives. Consistent with higher moral hazard problems with relatives, employers across samples report that firing a relative would lead to social penalties. Similarly, in the urban sample, treatment effects are higher among firms that report more difficulty verifying worker effort at baseline. These findings suggest that social pressure to hire relatives may distort the composition of employment as well as productivity in developing countries.
 </div>
 
-[__Knowledge Hoarding in the Transfer of Worker Skills: Evidence from Burundi__](https://drive.google.com/file/d/1eMtxnoDC_4CUh4qOOSvvBXxBqXJdJrH1/view) with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
-Social learning is an important source of knowledge diffusion in low-income countries. However, because developing country markets are often highly localized, individuals with social ties may compete more directly for the same economic rents, creating incentives for individuals to “hoard” their knowledge. This paper studies the impact of knowledge hoarding on the diffusion of profitable skills and technologies in rural Burundi, and measures its aggregate and distributional consequences for the village economy. In a field experiment covering 223 villages (labor markets), workers skilled in high-return agricultural technologies are encouraged to share their knowledge with unskilled individuals. We randomize at the local labor market level whether the unskilled worker is a competitor (i.e., someone from the same labor market) and whether the training is about a technology with rivalrous rents (row planting, which commands a wage premium in the labor market). We first establish that knowledge hoarding indeed reduces social learning. When incumbents are matched with an individual from the same labor market, knowledge transmission occurs only 3% of the time but reaches 43% if the unskilled worker is not a competitor. In contrast, transmission of technologies with nonrivalrous rents (e.g., composting) is high regardless of the unskilled worker’s identity. Next, we show that knowledge hoarding creates winners and losers: by hoarding knowledge, incumbents earn 6% more, and the skilled equilibrium wage is 3% higher. Instead, unskilled workers’ earnings and farm output are 7% and 20% lower, respectively. Altogether, knowledge hoarding reduces technology adoption by over 20%, suggesting substantial yield losses. Finally, our results suggest that fear of social sanction is a mechanism that sustains knowledge hoarding among the incumbents, highlighting how social ties can foster social learning but also inhibit it when knowledge diffusion threatens incumbents’ rents.
+</li>
+
+<li markdown="1">
+
+**[Knowledge Hoarding in the Transfer of Worker Skills: Evidence from Burundi](https://drive.google.com/file/d/1eMtxnoDC_4CUh4qOOSvvBXxBqXJdJrH1/view)**
+{: .pub-title}
+
+with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)
+{: .pub-authors}
+
+<button class="pub-abstract-toggle" type="button">Abstract</button>
+<div class="pub-abstract">
+Social learning is an important source of knowledge diffusion in low-income countries. However, because developing country markets are often highly localized, individuals with social ties may compete more directly for the same economic rents, creating incentives for individuals to "hoard" their knowledge. This paper studies the impact of knowledge hoarding on the diffusion of profitable skills and technologies in rural Burundi, and measures its aggregate and distributional consequences for the village economy. In a field experiment covering 223 villages (labor markets), workers skilled in high-return agricultural technologies are encouraged to share their knowledge with unskilled individuals. We randomize at the local labor market level whether the unskilled worker is a competitor (i.e., someone from the same labor market) and whether the training is about a technology with rivalrous rents (row planting, which commands a wage premium in the labor market). We first establish that knowledge hoarding indeed reduces social learning. When incumbents are matched with an individual from the same labor market, knowledge transmission occurs only 3% of the time but reaches 43% if the unskilled worker is not a competitor. In contrast, transmission of technologies with nonrivalrous rents (e.g., composting) is high regardless of the unskilled worker's identity. Next, we show that knowledge hoarding creates winners and losers: by hoarding knowledge, incumbents earn 6% more, and the skilled equilibrium wage is 3% higher. Instead, unskilled workers' earnings and farm output are 7% and 20% lower, respectively. Altogether, knowledge hoarding reduces technology adoption by over 20%, suggesting substantial yield losses. Finally, our results suggest that fear of social sanction is a mechanism that sustains knowledge hoarding among the incumbents, highlighting how social ties can foster social learning but also inhibit it when knowledge diffusion threatens incumbents' rents.
 </div>
 
-[__Retrieval Failures and Consumption Smoothing:
-A Field Experiment on Seasonal Poverty__](/files/2_RetrievalFailures.pdf) with [Ned Augenblick](http://faculty.haas.berkeley.edu/ned/?_gl=1*uuzusw*_ga*MTgxNDQ0OTQ2NS4xNTg0NzIzOTM1*_ga_EW2RSBHHX6*MTcwMDUxNjE1OC4xNy4xLjE3MDA1MTc0NDMuNjAuMC4w), [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)  
-Conditionally Accepted, _Quarterly Journal of Economics_
+</li>
 
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
-<span style="text-decoration: underline;">Abstract:</span> Individuals may fail to recall and use information they already know when making decisions. We empirically investigate whether such ``retrieval failures'' distort consumption smoothing behavior among Zambian farmers, who derive their income from one annual harvest and then spend it down over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for under-saving. In order to improve recall, we randomize an intervention that prompts individuals to think through their future expenses associatively in categories-without providing any external information or guidance.  Treated individuals increase ``remembered'' expenses by 42%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, two months after the intervention, treated households hold 15% higher savings. They subsequently enter the ``hungry season''-the final months of the year when consumption typically declines sharply-with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year's crop revenue. We replicate the intervention's impact on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations. 
+<li markdown="1">
+
+**[Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty](/files/2_RetrievalFailures.pdf)**
+{: .pub-title}
+
+with [Ned Augenblick](http://faculty.haas.berkeley.edu/ned/?_gl=1*uuzusw*_ga*MTgxNDQ0OTQ2NS4xNTg0NzIzOTM1*_ga_EW2RSBHHX6*MTcwMDUxNjE1OC4xNy4xLjE3MDA1MTc0NDMuNjAuMC4w), [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)
+{: .pub-authors}
+
+Conditionally Accepted, *Quarterly Journal of Economics*
+{: .pub-venue}
+
+<button class="pub-abstract-toggle" type="button">Abstract</button>
+<div class="pub-abstract">
+Individuals may fail to recall and use information they already know when making decisions. We empirically investigate whether such "retrieval failures" distort consumption smoothing behavior among Zambian farmers, who derive their income from one annual harvest and then spend it down over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for under-saving. In order to improve recall, we randomize an intervention that prompts individuals to think through their future expenses associatively in categories-without providing any external information or guidance. Treated individuals increase "remembered" expenses by 42%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, two months after the intervention, treated households hold 15% higher savings. They subsequently enter the "hungry season"-the final months of the year when consumption typically declines sharply-with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year's crop revenue. We replicate the intervention's impact on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.
 </div>
 
-[__Slum Measurement using Manual and AI Methods__](https://www.dropbox.com/scl/fi/xdoxzuhsmscs5evrusyr1/Slum-Measurement-using-Manual-and-AI-Methods.pdf?rlkey=c3ag4p4a0zvf3ty48zwd7a2ni&dl=0) with [Michael Gechter](https://michaelgechter.com/), Yuting Li, Nancy Lozano Gracia, Minas Sifakis and [Nick Tsivanidis](https://www.nicktsivanidis.com/)  
-In preparation for the _Journal of Economic Perspectives_
+</li>
 
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px"> 
-Slums represent a large and growing part of the global urban landscape, yet fine geographic
-data on their location and populations remain scarce. This scarcity constrains both urban
-policymakers, who need maps to target investments, and researchers, who need location
-data for causal inference on the effects of policies involving slums. This article reviews methods for measuring slums at two levels: counting slum populations
-and producing high-resolution maps of slum locations.
+<li markdown="1">
+
+**[Slum Measurement using Manual and AI Methods](https://www.dropbox.com/scl/fi/xdoxzuhsmscs5evrusyr1/Slum-Measurement-using-Manual-and-AI-Methods.pdf?rlkey=c3ag4p4a0zvf3ty48zwd7a2ni&dl=0)**
+{: .pub-title}
+
+with [Michael Gechter](https://michaelgechter.com/), Yuting Li, Nancy Lozano Gracia, Minas Sifakis and [Nick Tsivanidis](https://www.nicktsivanidis.com/)
+{: .pub-authors}
+
+In preparation for the *Journal of Economic Perspectives*
+{: .pub-venue}
+
+<button class="pub-abstract-toggle" type="button">Abstract</button>
+<div class="pub-abstract">
+Slums represent a large and growing part of the global urban landscape, yet fine geographic data on their location and populations remain scarce. This scarcity constrains both urban policymakers, who need maps to target investments, and researchers, who need location data for causal inference on the effects of policies involving slums. This article reviews methods for measuring slums at two levels: counting slum populations and producing high-resolution maps of slum locations.
 </div>
 
+</li>
+
+</ol>
 
 ## Publications
 
-[__When Outsiders Become Insiders: Beliefs and the Persistence of Exclusionary Norms__](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20261047) with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)  _AEA Papers and Proceedings_ 2026, 116: 162-166
+<ol class="pub-list" markdown="1">
 
-[__Research Transparency is on the Rise in Economics__](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077) with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Rebecca Littman](http://thelittmanlab.com/), [David Birke](https://djbirke.net/), [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), [Zenan Wang](https://www.zenan-wang.com/) _AEA Papers and Proceedings_ 2020, 110: 61-65
+<li markdown="1">
 
-[__Survey of Open Science Practices and Attitudes in the Social Sciences__](https://www.nature.com/articles/s41467-023-41111-1) with [Joel Ferguson](https://joelferg.github.io/), [Rebecca Littman](http://thelittmanlab.com/), [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), [Zenan Wang](https://www.zenan-wang.com/), [Edward Miguel](http://emiguel.econ.berkeley.edu/), [David Birke](https://djbirke.net/), John-Henry Pezzuto, _Nature Communications_ Forthcoming
+**[When Outsiders Become Insiders: Beliefs and the Persistence of Exclusionary Norms](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20261047)**
+{: .pub-title}
 
+with [Luisa Cefala](https://luisacef.github.io/), Franck Irakoze, [Pedro Naso](https://pedronaso.com/)
+{: .pub-authors}
+
+*AEA Papers and Proceedings* 2026, 116: 162-166
+{: .pub-venue}
+
+</li>
+
+<li markdown="1">
+
+**[Research Transparency is on the Rise in Economics](https://www.aeaweb.org/articles?id=10.1257/pandp.20201077)**
+{: .pub-title}
+
+with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Rebecca Littman](http://thelittmanlab.com/), [David Birke](https://djbirke.net/), [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), [Zenan Wang](https://www.zenan-wang.com/)
+{: .pub-authors}
+
+*AEA Papers and Proceedings* 2020, 110: 61-65
+{: .pub-venue}
+
+</li>
+
+<li markdown="1">
+
+**[Survey of Open Science Practices and Attitudes in the Social Sciences](https://www.nature.com/articles/s41467-023-41111-1)**
+{: .pub-title}
+
+with [Joel Ferguson](https://joelferg.github.io/), [Rebecca Littman](http://thelittmanlab.com/), [Garret Christensen](https://www.ocf.berkeley.edu/~garret/), [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/), [Zenan Wang](https://www.zenan-wang.com/), [Edward Miguel](http://emiguel.econ.berkeley.edu/), [David Birke](https://djbirke.net/), John-Henry Pezzuto
+{: .pub-authors}
+
+*Nature Communications*, Forthcoming
+{: .pub-venue}
+
+</li>
+
+</ol>
 
 ## Works in Progress
 
-__The Impacts of Liquidity on Low-income Workers: Evidence from EWA__ with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
-<div class="indented-text" style="font-size: 0.8em; margin-left: 20px; margin-bottom: 25px; margin-top: -16px">
-Earned Wage Access (EWA)--a financial technology that gives workers access to their wages as they are earned, rather than having to wait until payday--can benefit workers by providing cheap, short-term liquidity. However, when workers have self-control problems or biased beliefs, particularly about their future earnings and liquidity shocks, they may use this technology suboptimally, resulting in overconsumption. We partner with an EWA fintech firm to quantify these trade-offs using administrative data on earnings and EWA usage, in conjunction with a survey experiment. We find that workers systematically over-predict their future earnings, under-predict their future EWA usage, demand incentives to reduce their EWA usage, and are unable to predict future wage shocks. Using quasi-experimental variation in these wage shocks, we document that workers significantly increase their EWA usage in response to positive wage shocks in both their most recent paycheck and their next paycheck, which determines the amount they can withdraw. Using changes in withdrawal fees, we find patterns consistent with partial sophistication about self-control problems. We organize these facts in a consumption-savings model at the daily level, with workers with biased beliefs and partial awareness of their self-control problems. The estimates from our model imply that EWA increases worker’s welfare on net, but that regulations such as fees and withdrawal limits can further enhance welfare. 
+<ol class="pub-list" markdown="1">
+
+<li markdown="1">
+
+**The Impacts of Liquidity on Low-income Workers: Evidence from EWA**
+{: .pub-title}
+
+with [Luisa Cefala](https://luisacef.github.io/), [Eric Koepcke](https://ekoepcke.github.io/)
+{: .pub-authors}
+
+<button class="pub-abstract-toggle" type="button">Abstract</button>
+<div class="pub-abstract">
+Earned Wage Access (EWA)--a financial technology that gives workers access to their wages as they are earned, rather than having to wait until payday--can benefit workers by providing cheap, short-term liquidity. However, when workers have self-control problems or biased beliefs, particularly about their future earnings and liquidity shocks, they may use this technology suboptimally, resulting in overconsumption. We partner with an EWA fintech firm to quantify these trade-offs using administrative data on earnings and EWA usage, in conjunction with a survey experiment. We find that workers systematically over-predict their future earnings, under-predict their future EWA usage, demand incentives to reduce their EWA usage, and are unable to predict future wage shocks. Using quasi-experimental variation in these wage shocks, we document that workers significantly increase their EWA usage in response to positive wage shocks in both their most recent paycheck and their next paycheck, which determines the amount they can withdraw. Using changes in withdrawal fees, we find patterns consistent with partial sophistication about self-control problems. We organize these facts in a consumption-savings model at the daily level, with workers with biased beliefs and partial awareness of their self-control problems. The estimates from our model imply that EWA increases worker's welfare on net, but that regulations such as fees and withdrawal limits can further enhance welfare.
 </div>
+
+</li>
+
+</ol>

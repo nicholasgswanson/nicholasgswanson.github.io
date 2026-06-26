@@ -1,0 +1,145 @@
+/* ==========================================================================
+   HOME INTRO
+   ========================================================================== */
+
+.home-intro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2em;
+  margin-bottom: 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+
+  &__avatar {
+    flex: 0 0 auto;
+
+    img {
+      width: 128px;
+      height: 128px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  }
+
+  &__text {
+    flex: 1 1 320px;
+    min-width: 0;
+  }
+
+  &__name {
+    margin: 0 0 0.2em;
+    font-size: $type-size-2;
+    line-height: 1.15;
+  }
+
+  &__title {
+    margin: 0 0 1em;
+    color: $gray;
+    font-size: $type-size-5;
+  }
+
+  &__links {
+    margin-top: 1em;
+    font-size: $type-size-6;
+    color: $gray;
+
+    a {
+      color: $text-color;
+    }
+
+    .sep {
+      margin: 0 0.5em;
+      color: $light-gray;
+    }
+  }
+}
+
+
+/* ==========================================================================
+   NUMBERED PUBLICATION / COURSE LISTS
+   ========================================================================== */
+
+.pub-list {
+  margin: 0 0 2.5em;
+  padding-left: 0;
+  list-style: none;
+  counter-reset: pub;
+}
+
+.pub-list > li {
+  position: relative;
+  counter-increment: pub;
+  padding-left: 2.1em;
+  margin-bottom: 2em;
+
+  &::before {
+    content: counter(pub) ".";
+    position: absolute;
+    left: 0;
+    top: 0.05em;
+    font-weight: 600;
+    color: $accent-color;
+  }
+
+  p {
+    margin: 0 0 0.35em;
+  }
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-authors {
+  color: $gray;
+}
+
+.pub-venue {
+  color: $gray;
+  font-style: italic;
+}
+
+.pub-abstract-toggle {
+  display: inline-block;
+  margin: 0.6em 0 0;
+  padding: 0.3em 0.9em;
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  font-weight: 600;
+  color: $accent-color;
+  background: #fff;
+  border: 1px solid $accent-color;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: $global-transition;
+
+  &:hover {
+    color: #fff;
+    background: $accent-color;
+  }
+
+  &.is-open {
+    color: #fff;
+    background: $accent-color;
+  }
+}
+
+.pub-list > li p:has(> .pub-abstract-toggle) {
+  margin-bottom: 0;
+}
+
+.pub-abstract {
+  display: none;
+  margin-top: 0.8em;
+  font-size: $type-size-6;
+  color: $dark-gray;
+
+  &.is-open {
+    display: block;
+  }
+}
+
+.course-meta {
+  color: $gray;
+}

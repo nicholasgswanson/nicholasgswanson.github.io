@@ -2,12 +2,12 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-Please click [here](http://nicholasgswanson.github.io/files/1_swanson_cv.pdf) for CV
+[Open my CV (PDF)](/files/Swanson_cv_v13.pdf)
 
 <!--
 {% include base_path %}

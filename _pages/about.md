@@ -2,19 +2,30 @@
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at Cornell University. I received my PhD in Economics at UC Berkeley in 2024. During 2025, I was a postdoctoral fellow at the King Center at Stanford University. 
-
-My research focuses on Development, Behavioral and Labor Economics.  
-
-If you’d like to contact me, you can email ngs53 at cornell dot edu.
-
-You can find my CV [here](http://nicholasgswanson.github.io/files/Swanson_cv_v13.pdf)
+<div class="home-intro">
+  <div class="home-intro__avatar">
+    <img src="/images/profile_pic.png" alt="Nicholas Swanson">
+  </div>
+  <div class="home-intro__text">
+    <h1 class="home-intro__name">Nicholas Swanson</h1>
+    <p class="home-intro__title">Assistant Professor of Economics, Cornell University</p>
+    <p>I am an Assistant Professor of Economics at Cornell University. I received my PhD in Economics at UC Berkeley in 2024. During 2025, I was a postdoctoral fellow at the King Center at Stanford University.</p>
+    <p>My research focuses on Development, Behavioral and Labor Economics.</p>
+    <p class="home-intro__links">
+      <a href="mailto:ngs53@cornell.edu">Email</a>
+      <span class="sep">&middot;</span>
+      <a href="/files/Swanson_cv_v13.pdf">CV</a>
+      <span class="sep">&middot;</span>
+      <a href="/research/">Research</a>
+    </p>
+  </div>
+</div>
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
