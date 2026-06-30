@@ -53,24 +53,6 @@ Social learning is an important source of knowledge diffusion in low-income coun
 
 <li markdown="1">
 
-**[Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty](/files/2_RetrievalFailures.pdf)**
-{: .pub-title}
-
-with [Ned Augenblick](http://faculty.haas.berkeley.edu/ned/?_gl=1*uuzusw*_ga*MTgxNDQ0OTQ2NS4xNTg0NzIzOTM1*_ga_EW2RSBHHX6*MTcwMDUxNjE1OC4xNy4xLjE3MDA1MTc0NDMuNjAuMC4w), [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)
-{: .pub-authors}
-
-Conditionally Accepted, *Quarterly Journal of Economics*
-{: .pub-venue}
-
-<button class="pub-abstract-toggle" type="button">Abstract</button>
-<div class="pub-abstract">
-Individuals may fail to recall and use information they already know when making decisions. We empirically investigate whether such "retrieval failures" distort consumption smoothing behavior among Zambian farmers, who derive their income from one annual harvest and then spend it down over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for under-saving. In order to improve recall, we randomize an intervention that prompts individuals to think through their future expenses associatively in categories-without providing any external information or guidance. Treated individuals increase "remembered" expenses by 42%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, two months after the intervention, treated households hold 15% higher savings. They subsequently enter the "hungry season"-the final months of the year when consumption typically declines sharply-with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year's crop revenue. We replicate the intervention's impact on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.
-</div>
-
-</li>
-
-<li markdown="1">
-
 **[Slum Measurement using Manual and AI Methods](https://www.dropbox.com/scl/fi/xdoxzuhsmscs5evrusyr1/Slum-Measurement-using-Manual-and-AI-Methods.pdf?rlkey=c3ag4p4a0zvf3ty48zwd7a2ni&dl=0)**
 {: .pub-title}
 
@@ -92,6 +74,24 @@ Slums represent a large and growing part of the global urban landscape, yet fine
 ## Publications
 
 <ol class="pub-list" markdown="1">
+
+<li markdown="1">
+
+**[Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty](/files/2_RetrievalFailures.pdf)**
+{: .pub-title}
+
+with [Ned Augenblick](http://faculty.haas.berkeley.edu/ned/?_gl=1*uuzusw*_ga*MTgxNDQ0OTQ2NS4xNTg0NzIzOTM1*_ga_EW2RSBHHX6*MTcwMDUxNjE1OC4xNy4xLjE3MDA1MTc0NDMuNjAuMC4w), [Kelsey Jack](http://kelseyjack.bren.ucsb.edu/), [Supreet Kaur](https://www.supreetkaur.com/), [Felix Masiye](https://www.povertyactionlab.org/person/masiye)
+{: .pub-authors}
+
+Forthcoming, *Quarterly Journal of Economics*
+{: .pub-venue}
+
+<button class="pub-abstract-toggle" type="button">Abstract</button>
+<div class="pub-abstract">
+Individuals may fail to recall and use information they already know when making decisions. We empirically investigate whether such "retrieval failures" distort consumption smoothing behavior among Zambian farmers, who derive their income from one annual harvest and then spend it down over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for under-saving. In order to improve recall, we randomize an intervention that prompts individuals to think through their future expenses associatively in categories-without providing any external information or guidance. Treated individuals increase "remembered" expenses by 42%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, two months after the intervention, treated households hold 15% higher savings. They subsequently enter the "hungry season"-the final months of the year when consumption typically declines sharply-with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year's crop revenue. We replicate the intervention's impact on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.
+</div>
+
+</li>
 
 <li markdown="1">
 
